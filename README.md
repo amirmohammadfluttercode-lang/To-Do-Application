@@ -8,7 +8,6 @@ You will learn to work with **Hive** and **Models** better by doing this project
 
 ## 🚀 Features
 - Add, edit, and delete tasks
-- Mark tasks as completed
 - Light & Dark mode support
 - Persistent storage with Hive
 - Clean and responsive UI
@@ -20,6 +19,7 @@ You will learn to work with **Hive** and **Models** better by doing this project
 | Light Mode | Dark Mode |
 |------------|-----------|
 | ![Light Screenshot](assets/ScreenShot/LightPage.png) | ![Dark Screenshot](assets/ScreenShot/DarkPage.png) |
+| ![Light Screenshot](assets/ScreenShot/AddTask.png) | ![Dark Screenshot](assets/ScreenShot/DarkPageAdd.png) |
 
 > ℹ️ Add your app screenshots in the `screenshots` folder and update the paths above.
 
