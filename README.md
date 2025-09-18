@@ -14,17 +14,7 @@ You will learn to work with **Hive** and **Models** better by doing this project
 
 ---
 
-## 📸 Screenshots
-
-| Light Mode🌄 | Dark Mode🌇 |
-|------------|-----------|
-| ![Light Screenshot](assets/ScreenShot/LightPage.png) | ![Dark Screenshot](assets/ScreenShot/DarkPage.png) |
-| ![Light Screenshot](assets/ScreenShot/AddTask.png) | ![Dark Screenshot](assets/ScreenShot/DarkPageAdd.png) |
-| ![Light Screenshot](assets/ScreenShot/DarkPageEdite.png) | ![Dark Screenshot](assets/ScreenShot/Edit_Task.png) |
-| ![Light Screenshot](assets/ScreenShot/Delete_Task.png) |
-
 ---
-
 ## 🛠️ Installation & Usage
 1. Clone the repository:
    ```bash
@@ -38,3 +28,15 @@ You will learn to work with **Hive** and **Models** better by doing this project
 4. Run the app:
    ```bash
    flutter run
+---
+
+## 📸 Screenshots
+
+| Light Mode🌄 | Dark Mode🌇 |
+|------------|-----------|
+| ![Light Screenshot](assets/ScreenShot/LightPage.png) | ![Dark Screenshot](assets/ScreenShot/DarkPage.png) |
+| ![Light Screenshot](assets/ScreenShot/AddTask.png) | ![Dark Screenshot](assets/ScreenShot/DarkPageAdd.png) |
+| ![Light Screenshot](assets/ScreenShot/DarkPageEdite.png) | ![Dark Screenshot](assets/ScreenShot/Edit_Task.png) |
+| ![Light Screenshot](assets/ScreenShot/Delete_Task.png) |
+
+---
