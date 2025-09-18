@@ -29,3 +29,12 @@ You will learn to work with **Hive** and **Models** better by doing this project
 1. Clone the repository:
    ```bash
    git clone https://github.com/amirmohammadfluttercode-lang/To-Do-Application.git
+2. Navigate to project folder:
+   ```bash
+   cd To-Do-Application-main
+3. Install dependencies:
+   ```bash
+   flutter pub get
+4. Run the app:
+   ```bash
+   flutter run
