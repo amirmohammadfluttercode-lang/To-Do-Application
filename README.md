@@ -1,21 +1,30 @@
-<<<<<<< HEAD
-# To-Do-Application
-A simple and user-friendly To-Do application built to manage daily tasks efficiently.   Features include adding, editing, deleting and with a clean and responsive UI.
-=======
-# todoapp
+# 📝 To-Do Application
 
-A new Flutter project.
+A simple and modern To-Do application built with **Flutter**.  
+This app helps you manage daily tasks with an easy-to-use interface and supports both **Light** and **Dark** themes.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Add, edit, and delete tasks
+- Mark tasks as completed
+- Light & Dark mode support
+- Persistent storage with Hive
+- Clean and responsive UI
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 97c885e (ToDoApp)
+| Light Mode | Dark Mode |
+|------------|-----------|
+| ![Light Screenshot](assets/ScreenShot/LightPage.png) | ![Dark Screenshot](assets/ScreenShot/DarkPage.png) |
+
+> ℹ️ Add your app screenshots in the `screenshots` folder and update the paths above.
+
+---
+
+## 🛠️ Installation & Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/amirmohammadfluttercode-lang/To-Do-Application.git
