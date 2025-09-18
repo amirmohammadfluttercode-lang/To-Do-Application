@@ -1,7 +1,8 @@
 # 📝 To-Do Application
 
-A simple and modern To-Do application built with **Flutter**.  
-This app helps you manage daily tasks with an easy-to-use interface and supports both **Light** and **Dark** themes.  
+A simple and modern to-do app built with **Flutter**.
+This app helps you manage your daily tasks with an easy-to-use interface and supports both **light** and **dark** themes.
+You will learn to work with **Hive** and **Models** better by doing this project.
 
 ---
 
