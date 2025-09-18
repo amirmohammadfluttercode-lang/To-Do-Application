@@ -13,8 +13,6 @@ You will learn to work with **Hive** and **Models** better by doing this project
 - Clean and responsive UI
 
 ---
-
----
 ## 🛠️ Installation & Usage
 1. Clone the repository:
    ```bash
