@@ -16,14 +16,12 @@ You will learn to work with **Hive** and **Models** better by doing this project
 
 ## 📸 Screenshots
 
-| Light Mode | Dark Mode |
+| Light Mode🌄 | Dark Mode🌇 |
 |------------|-----------|
 | ![Light Screenshot](assets/ScreenShot/LightPage.png) | ![Dark Screenshot](assets/ScreenShot/DarkPage.png) |
 | ![Light Screenshot](assets/ScreenShot/AddTask.png) | ![Dark Screenshot](assets/ScreenShot/DarkPageAdd.png) |
 | ![Light Screenshot](assets/ScreenShot/DarkPageEdite.png) | ![Dark Screenshot](assets/ScreenShot/Edit_Task.png) |
-| ![Light Screenshot](assets/ScreenShot/Delete_Task.png)
-
-> ℹ️ Add your app screenshots in the `screenshots` folder and update the paths above.
+| ![Light Screenshot](assets/ScreenShot/Delete_Task.png) |
 
 ---
 
